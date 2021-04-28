@@ -1,0 +1,3 @@
+displayName = AmogusPet
+author = Lilin
+version = 0.1
